@@ -15,7 +15,7 @@ body {
   margin: 0;
   color: var(--color-text);
   background-color: var(--color-bg);
-  background-image: url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg');
+  background-image: url('https://iwanharyatno.github.io/fm-social-proof-section/images/bg-pattern-top-mobile.svg'), url('https://iwanharyatno.github.io/fm-social-proof-section/images/bg-pattern-bottom-mobile.svg');
   background-position: top -1.5rem left 0, bottom 0 right 0;
   background-attachment: fixed;
   background-repeat: no-repeat, no-repeat;
@@ -101,7 +101,7 @@ p {
 
 @media screen and (min-width: 768px) {
   body {
-    background-image: url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg');
+    background-image: url('https://iwanharyatno.github.io/fm-social-proof-section/images/bg-pattern-top-desktop.svg'), url('https://iwanharyatno.github.io/fm-social-proof-section/images/bg-pattern-bottom-desktop.svg');
   }
 
   main {
